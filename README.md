@@ -49,7 +49,8 @@
 ## OUTPUT
 
 ![1](https://github.com/Shalini-Rajan/Ex04_Web-Design/assets/128398163/d665bf0d-5de9-4dcb-8cba-1f2fe444df2c)
-      ![2](https://github.com/Shalini-Rajan/Ex04_Web-Design/assets/128398163/d5512dce-521d-418a-91fc-a2e42d2500cc)
+
+![2](https://github.com/Shalini-Rajan/Ex04_Web-Design/assets/128398163/d5512dce-521d-418a-91fc-a2e42d2500cc)
                                            
 
 ## RESULT
